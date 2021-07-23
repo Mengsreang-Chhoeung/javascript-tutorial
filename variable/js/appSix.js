@@ -6,3 +6,5 @@ document.write("First Name: ", firstName, " and Last Name: ", lastName);
 document.write("<br>"); // New Line
 document.write("Full Name: ", fullName);
 
+
+

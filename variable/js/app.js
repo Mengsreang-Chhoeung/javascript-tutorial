@@ -5,3 +5,6 @@ document.write("X= ", x);
 document.write("<br>"); // New Line
 document.write("Y= ", y);
 
+
+
+

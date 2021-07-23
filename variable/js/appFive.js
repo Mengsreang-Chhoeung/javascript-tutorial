@@ -6,3 +6,5 @@ document.write("X = ", x, " and Y = ", y);
 document.write("<br>"); // New Line
 document.write("Sum of x and y = ", sum);
 
+
+
