@@ -6,3 +6,5 @@ function MyMethod() {
 // Invoke function
 MyMethod();
 MyMethod();
+
+

@@ -7,3 +7,4 @@ function MyMethod(name) {
 MyMethod("Tola");
 MyMethod("Makara");
 MyMethod("Pisey");
+
