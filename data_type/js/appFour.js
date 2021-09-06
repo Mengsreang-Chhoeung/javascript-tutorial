@@ -5,3 +5,6 @@ document.write("A= ", a, " and B= ", b, "<br>");
 document.write("Type of A is ", typeof a, "<br>");
 document.write("Type of B is ", typeof b, "<br>");
 
+
+
+

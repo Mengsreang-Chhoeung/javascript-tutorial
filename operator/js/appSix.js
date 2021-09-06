@@ -6,6 +6,6 @@ if (a > 20) {
 }
 document.write("<br>A= ", a, "<br>");
 if (a < 50) {
-    document.write("30 is Smaller than 50")
+    document.write("30 is Smaller than 50");
 }
 

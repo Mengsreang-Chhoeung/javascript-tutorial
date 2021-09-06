@@ -6,7 +6,7 @@ if (a >= 30) {
 }
 document.write("<br>A= ", a, "<br>");
 if (a <= 30) {
-    document.write("30 is Smaller than and Equal to 30")
+    document.write("30 is Smaller than and Equal to 30");
 }
 
 

@@ -6,7 +6,7 @@ if (a != 20) {
 }
 document.write("<br>A= ", a, "<br>");
 if (a != "20") {
-    document.write("30 is not Equal to 20")
+    document.write("30 is not Equal to 20");
 }
 
 
