@@ -1,15 +1,10 @@
-// Define function
-function MyFunctionGreeting() {
-	document.write("Hello JavaScript", "<br>");
-}
-function MyFunctionName() {
-	document.write("My Name is Kok", "<br>");
-}
-function MyFunctionGender() {
-	document.write("My Gender is Male", "<br>");
-}
+// Using Math.abs()
+document.write("Absolute Number -25: " + Math.abs(-25) + "<br>");
 
-// Invoke function
-MyFunctionGreeting();
-MyFunctionName();
-MyFunctionGender();
+// Using Math.round()
+document.write("Round Number 4.6: " + Math.round(4.6) + "<br>");
+document.write("Round Number 4.4: " + Math.round(4.4) + "<br>");
+
+// Using Math.ceil()
+document.write("Ceil Number 4.6: " + Math.ceil(4.6) + "<br>");
+document.write("Ceil Number 4.4: " + Math.ceil(4.4) + "<br>");
