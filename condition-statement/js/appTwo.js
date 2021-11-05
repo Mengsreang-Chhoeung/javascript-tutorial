@@ -1,5 +1,5 @@
 // initial value
-var age = 10;
+var age = 20;
 // check condition
 if (age < 18) {
 	document.write("You are Children");
